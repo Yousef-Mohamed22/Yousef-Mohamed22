@@ -1,8 +1,10 @@
-<h1 align="center">Hi, I'm Yousef 👋</h1>
+<h1 align="center">Hello, I'm Yousef 👋</h1>
 
 <p align="center">
-  <b>Linux Enthusiast & Open Source Community Member</b><br>
-  Focused on Linux gaming compatibility, system optimization.
+  <b>Linux enthusiast and member of the open-source community
+centered on system optimization and Linux gaming compatibility.
+</b>
+<br>
 </p>
 
 <p align="center">
@@ -14,11 +16,10 @@
 
 ### 🐧 About Me
 
-- 🎮 **Gaming Compatibility:** Testing translation layers & graphics wrappers (Proton, Wine, DXVK, DxWrapper) to make games run smoothly on Linux and providing feedback to developers.
+- 🎮 **Gaming Compatibility:** Evaluating translation layers and graphics wrappers Proton, Wine, DXVK, and DxWrapper to ensure Linux games function properly and giving developers feedback.
 
-- 🐛 **Community Feedback:** Actively submitting detailed issue reports, verifying fixes, and assisting open-source Linux gaming projects.
-
-- ⚙️ **System Tweaking:** Fine-tuning desktop performance, wrapper configurations, and system scripts on Arch-based Linux.
+- 🐛 **Community input:** actively providing thorough issue reports, confirming solutions, and supporting open-source Linux gaming initiatives.
+- ⚙️ **System Tweaking:** Optimizing Arch-based Linux system scripts, wrapper configurations, and desktop performance.
 
 ---
 
