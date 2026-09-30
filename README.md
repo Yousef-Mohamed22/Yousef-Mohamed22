@@ -13,6 +13,6 @@
 ---
 
 ### 📌 About Me
-- 🐧 Daily Linux user exploring open-source software and gaming
-- 🎮 Testing game compatibility and providing feedback to developers
-- 🛠️ Customizing system setups and configurations
+- 🐧 Everyday Linux user investigating open-source software and gaming
+- 🎮 Verifying game compatibility and giving developers feedback
+- 🛠️ Tailoring system configurations and setups
