@@ -16,7 +16,7 @@ centered on system optimization and Linux gaming compatibility.
 
 ### 🐧 About Me
 
-- 🎮 **Gaming Compatibility:** Evaluating translation layers and graphics wrappers Proton, Wine, DXVK, and DxWrapper to ensure Linux games function properly and giving developers feedback.
+- 🎮 **Gaming Compatibility:** Evaluating translation layers and graphics wrappers Proton, Wine, DXVK, and DxWrapper to ensure Linux games function properly.
 
 - 🐛 **Community input:** actively providing thorough issue reports, confirming solutions, and supporting open-source Linux gaming initiatives.
 - ⚙️ **System Tweaking:** Optimizing Arch-based Linux system scripts, wrapper configurations, and desktop performance.
